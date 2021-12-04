@@ -210,8 +210,10 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonModule>ПыщПыщМОдуль</CommonModule>
 			<Catalog>Номенклатура</Catalog>
 			<Document>Док_РТУ</Document>
+			<InformationRegister>РегистрСведений1</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
