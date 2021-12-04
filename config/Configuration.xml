@@ -210,6 +210,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Catalog>Номенклатура</Catalog>
+			<Document>Док_РТУ</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
